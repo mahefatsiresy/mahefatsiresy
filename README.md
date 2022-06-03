@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mahefatsiresy
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at mahefatsiresy.n.lucas.gmail.com
+Hi, I’m Mahefatsiresy
+
+My full name is: RANDRIANARIVELO Mahefatsiresy Nantenaina Lucas
+
+I'am a junior web developper working with javascipt/typescript
